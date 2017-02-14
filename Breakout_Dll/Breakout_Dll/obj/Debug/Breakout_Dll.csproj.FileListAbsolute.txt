@@ -1,0 +1,7 @@
+F:\Dev\UnityProj\Version5.0\Breakout_Dll\Breakout_Dll\bin\Debug\Breakout_Dll.dll
+F:\Dev\UnityProj\Version5.0\Breakout_Dll\Breakout_Dll\bin\Debug\Breakout_Dll.pdb
+F:\Dev\UnityProj\Version5.0\Breakout_Dll\Breakout_Dll\bin\Debug\UnityEngine.dll
+F:\Dev\UnityProj\Version5.0\Breakout_Dll\Breakout_Dll\obj\Debug\Breakout_Dll.dll
+F:\Dev\UnityProj\Version5.0\Breakout_Dll\Breakout_Dll\obj\Debug\Breakout_Dll.pdb
+F:\Dev\UnityProj\Version5.0\Breakout_Dll\Breakout_Dll\bin\Debug\UnityEngine.UI.dll
+F:\Dev\UnityProj\Version5.0\Breakout_Dll\Breakout_Dll\bin\Debug\UnityEditor.dll

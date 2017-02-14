@@ -1,0 +1,11 @@
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\Breakout_Dll.dll
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\Breakout_Dll.pdb
+F:\Dev\UnityProj\Version5.0\Breakout\obj\Debug\UnityVS.Breakout.CSharp.csprojResolveAssemblyReference.cache
+F:\Dev\UnityProj\Version5.0\Breakout\obj\Debug\Assembly-CSharp.dll
+F:\Dev\UnityProj\Version5.0\Breakout\obj\Debug\Assembly-CSharp.pdb
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\Dev\UnityProj\Version5.0\Breakout\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll

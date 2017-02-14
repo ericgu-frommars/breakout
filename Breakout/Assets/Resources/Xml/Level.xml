@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <Level Name = "Level01">
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>7.2</Y>
+      <Type>3</Type>
+    </TileData>
+  </Level>
+
+  <Level Name = "Level02">
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+    
+  </Level>
+
+  <Level Name = "Level03">
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>4.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>4.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>4.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>4.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>4.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>4.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>6.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>7.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>7.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>7.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>7.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>7.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>7.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>7.2</Y>
+      <Type>3</Type>
+    </TileData>
+  </Level>
+
+  <Level Name = "Level04">
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>4.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>4.2</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>4.8</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>4.8</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>4.8</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>5.4</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>5.4</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>7.2</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>7.2</Y>
+      <Type>3</Type>
+    </TileData>
+  </Level>
+
+  <Level Name = "Level05">
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>3.6</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>3.6</Y>
+      <Type>2</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>3.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>3.6</Y>
+      <Type>3</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>4.2</Y>
+      <Type>0</Type>
+    </TileData>
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>5.4</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>5.4</Y>
+      <Type>2</Type>
+    </TileData>
+
+
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>6.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-0.7</X>
+      <Y>6.0</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>6.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.0</Y>
+      <Type>3</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.0</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>7.1</X>
+      <Y>6.0</Y>
+      <Type>2</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-7.2</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-4.6</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>-2.0</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>0.6</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>3.2</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+    <TileData>
+      <X>5.8</X>
+      <Y>6.6</Y>
+      <Type>0</Type>
+    </TileData>
+
+
+
+    <TileData>
+      <X>-5.9</X>
+      <Y>7.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>-3.3</X>
+      <Y>7.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>1.9</X>
+      <Y>7.2</Y>
+      <Type>1</Type>
+    </TileData>
+
+    <TileData>
+      <X>4.5</X>
+      <Y>7.2</Y>
+      <Type>1</Type>
+    </TileData>
+  </Level>
+
+</resources>
